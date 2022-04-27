@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppR</string>
+    <string name="txt">Digite os valores:</string>
+    <string name="bnt">Roll</string>
+</resources>
